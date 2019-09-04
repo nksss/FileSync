@@ -10,7 +10,7 @@ class Application(Frame):
 
     def createWidgets(self):
         self.routeEntry1 = Entry(self)
-        self.routeEntry1.grid(row=1,column=1,padx=10,pady=10)  #测试
+        self.routeEntry1.grid(row=1,column=1,padx=10,pady=10)  #测试...
 
         self.routeEntry2 = Entry(self)
         self.routeEntry2.grid(row=1,column=3,padx=10,pady=10)
